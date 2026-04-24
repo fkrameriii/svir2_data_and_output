@@ -1,0 +1,16 @@
+alpha_prime,beta_c,peak_height,peak_day,attack_rate
+0.05,Experimental,0.137,22,0.603
+0.1,Experimental,0.125,23,0.587
+0.2,Experimental,0.095,26,0.539
+0.4,Experimental,0.055,35,0.461
+0.8,Experimental,0.042,49,0.431
+0.05,SVIR-A,0.202,16,0.679
+0.1,SVIR-A,0.202,16,0.679
+0.2,SVIR-A,0.202,16,0.679
+0.4,SVIR-A,0.202,16,0.679
+0.8,SVIR-A,0.202,16,0.679
+0.05,SVIR-C,0.035,63,0.413
+0.1,SVIR-C,0.035,63,0.413
+0.2,SVIR-C,0.035,63,0.413
+0.4,SVIR-C,0.035,63,0.413
+0.8,SVIR-C,0.035,63,0.413
